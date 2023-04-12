@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU1}{Miscellaneous.html}
+= Misc.
+
+- I like playing table tennis. Here are the pictures when I was in the competition.
+
+~~~
+{}{img_left}{table tennis1.jpg}{picture}{283}{200}{}
+~~~
+
+~~~
+{}{img_left}{table tennis2.jpg}{picture}{189}{302}{}
+~~~
+
+- Hiking and Photography	
+
+~~~
+{}{img_left}{hiking1.jpg}{picture}{312}{208}{}
+~~~
+
+~~~
+{}{img_left}{hiking2.JPG}{picture}{233}{414}{}
+~~~
+
+~~~
+{}{img_left}{hiking3.jpg}{picture}{169}{300}{}
+~~~
